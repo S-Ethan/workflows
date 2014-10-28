@@ -1,0 +1,10 @@
+// _rclick.scss
+// ==============
+.rclick {
+  .item {
+    display: block;
+    float: left;
+    img {
+      @include border-radius(none);
+    }
+  } //item
