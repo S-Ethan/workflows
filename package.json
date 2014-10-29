@@ -6,5 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Samuel Pearl"
+  "author": "Samuel Pearl",
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-util": "^2.2.14"
+  }
 }
